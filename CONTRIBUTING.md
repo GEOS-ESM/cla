@@ -2,7 +2,7 @@
 
 ## Contributor License Agreement (CLA)
 
-All users contributing to GEOS-ESM projects must complete a [Contributor License
+All external developers contributing to GEOS-ESM projects must complete a [Contributor License
 Agreement](https://github.com/GEOS-ESM/cla).
 
 NOTE: Internal NASA contributors associated with GEOS, including contractors,
