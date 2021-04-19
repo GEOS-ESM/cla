@@ -1,5 +1,7 @@
 # Contributing to XXX
 
+Contributing code to XXX should be done via a Pull Request to this repository.
+
 ## Contributor License Agreement (CLA)
 
 All external developers contributing to GEOS-ESM projects must complete a [Contributor License
