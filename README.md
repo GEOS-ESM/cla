@@ -21,6 +21,9 @@ Individuals that contribute to GEOS-ESM projects must complete, sign, and [email
 the [Individual Contributor License
 Agreement](Individual_CLA_GSC-15354-1_GEOS-ESM.pdf).
 
+NOTE: Internal NASA contributors associated with GEOS, including contractors,
+are covered by other agreements and do not need to sign a CLA.
+
 ### Corporations
 
 A corporation that has assigned employees to work on GEOS-ESM projects should
