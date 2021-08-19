@@ -4,6 +4,8 @@
 
 :x: - CLA not yet signed
 
+:question: - CLA status in progress
+
 ## MAPL
 
 - Raffaele Montuoro ([@rmontuoro](https://github.com/rmontuoro)) - ✔️
@@ -26,7 +28,7 @@
     ([MAPL/#172](https://github.com/GEOS-ESM/MAPL/pull/172),
     [MAPL/#203](https://github.com/GEOS-ESM/MAPL/pull/203))
   - Bypass the majority of MAPL_FlapCapOptions.F90 if not using FLAP ([MAPL/#452](https://github.com/GEOS-ESM/MAPL/pull/452))
-- Liam Bindle ([@LiamBindle](https://github.com/LiamBindle)) - ✔️
+- Liam Bindle ([@LiamBindle](https://github.com/LiamBindle)) - ❓
   - Changed how ESMF return codes are included in MAPL_Exceptions.h ([MAPL/#26](https://github.com/GEOS-ESM/MAPL/pull/26))
   - Added missing stretched-grid support to MAPL_ExtDataGridChangeLev ([MAPL/#223](https://github.com/GEOS-ESM/MAPL/pull/223))
   - Updated CMakeLists to work with GEOS-ESM/ESMA_cmake#57 ([MAPL/#226](https://github.com/GEOS-ESM/MAPL/pull/226))
