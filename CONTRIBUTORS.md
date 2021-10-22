@@ -22,6 +22,8 @@
   - Address build failure with GNU Fortran 9.3.0 ([MAPL/#893](https://github.com/GEOS-ESM/MAPL/pull/893))
   - Ensure grid coordinates are always provided in radians ([MAPL/#900](https://github.com/GEOS-ESM/MAPL/pull/900))
   - Remove Pandas dependency from automatic code generator ([MAPL/#952](https://github.com/GEOS-ESM/MAPL/pull/952))
+  - Improve MAPL configuration for external projects ([MAPL/#1101](https://github.com/GEOS-ESM/MAPL/pull/1101))
+  - Minimize communication barriers ([MAPL/#1120](https://github.com/GEOS-ESM/MAPL/pull/1120))
 - Lizzie Lundgren ([@lizziel](https://github.com/lizziel)) - ✔️
   - Add new restart attributes to MAPL: bootstrapped and skip initial restart ([MAPL/#39](https://github.com/GEOS-ESM/MAPL/pull/39))
   - ExtData debug printing
