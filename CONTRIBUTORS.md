@@ -58,4 +58,7 @@
 - Raffaele Montuoro ([@rmontuoro](https://github.com/rmontuoro)) - ✔️
   - Enable independent use with external packages ([ESMA_cmake/#133](https://github.com/GEOS-ESM/ESMA_cmake/pull/133))
 
+## FVdycoreCubed_GridComp
 
+- Sebastian David Eastham ([@sdeastham](https://github.com/sdeastham)) - ✔️
+  - Squash unnecessary warning from FVdycore ([FVdycoreCubed_GridComp/#156](https://github.com/GEOS-ESM/FVdycoreCubed_GridComp/pull/156))
