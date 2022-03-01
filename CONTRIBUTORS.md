@@ -26,10 +26,9 @@
   - Minimize communication barriers ([MAPL/#1120](https://github.com/GEOS-ESM/MAPL/pull/1120))
 - Lizzie Lundgren ([@lizziel](https://github.com/lizziel)) - ✔️
   - Add new restart attributes to MAPL: bootstrapped and skip initial restart ([MAPL/#39](https://github.com/GEOS-ESM/MAPL/pull/39))
-  - ExtData debug printing
-    ([MAPL/#172](https://github.com/GEOS-ESM/MAPL/pull/172),
-    [MAPL/#203](https://github.com/GEOS-ESM/MAPL/pull/203))
+  - ExtData debug printing ([MAPL/#172](https://github.com/GEOS-ESM/MAPL/pull/172), [MAPL/#203](https://github.com/GEOS-ESM/MAPL/pull/203))
   - Bypass the majority of MAPL_FlapCapOptions.F90 if not using FLAP ([MAPL/#452](https://github.com/GEOS-ESM/MAPL/pull/452))
+  - Improve missing file error handling for untemplated filenames ([MAPL/#1377](https://github.com/GEOS-ESM/MAPL/pull/1377))
 - Liam Bindle ([@LiamBindle](https://github.com/LiamBindle)) - ❓
   - Changed how ESMF return codes are included in MAPL_Exceptions.h ([MAPL/#26](https://github.com/GEOS-ESM/MAPL/pull/26))
   - Added missing stretched-grid support to MAPL_ExtDataGridChangeLev ([MAPL/#223](https://github.com/GEOS-ESM/MAPL/pull/223))
@@ -52,6 +51,7 @@
   - Improving UFS Aerosols ([GOCART/#59](https://github.com/GEOS-ESM/GOCART/pull/59))
   - Fix build issue with GNU 9.2.0 ([GOCART/#62](https://github.com/GEOS-ESM/GOCART/pull/62))
   - Eliminate Soil Erosion Potential Distribution from FENGSHA ([GOCART/#71](https://github.com/GEOS-ESM/GOCART/pull/71))
+  - Update sediment flux formulation in FENGSHA dust scheme ([GOCART/#98](https://github.com/GEOS-ESM/GOCART/pull/98))
 
 ## ESMA_cmake
 
