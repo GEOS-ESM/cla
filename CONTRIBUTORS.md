@@ -29,6 +29,7 @@
   - ExtData debug printing ([MAPL/#172](https://github.com/GEOS-ESM/MAPL/pull/172), [MAPL/#203](https://github.com/GEOS-ESM/MAPL/pull/203))
   - Bypass the majority of MAPL_FlapCapOptions.F90 if not using FLAP ([MAPL/#452](https://github.com/GEOS-ESM/MAPL/pull/452))
   - Improve missing file error handling for untemplated filenames ([MAPL/#1377](https://github.com/GEOS-ESM/MAPL/pull/1377))
+  - Expand allowed _FillValue type and error handling in FileMetadataUtilities.F90 ([MAPL/#1506](https://github.com/GEOS-ESM/MAPL/pull/1506))
 - Liam Bindle ([@LiamBindle](https://github.com/LiamBindle)) - ❓
   - Changed how ESMF return codes are included in MAPL_Exceptions.h ([MAPL/#26](https://github.com/GEOS-ESM/MAPL/pull/26))
   - Added missing stretched-grid support to MAPL_ExtDataGridChangeLev ([MAPL/#223](https://github.com/GEOS-ESM/MAPL/pull/223))
