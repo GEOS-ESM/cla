@@ -63,3 +63,7 @@
 
 - Sebastian David Eastham ([@sdeastham](https://github.com/sdeastham)) - ✔️
   - Squash unnecessary warning from FVdycore ([FVdycoreCubed_GridComp/#156](https://github.com/GEOS-ESM/FVdycoreCubed_GridComp/pull/156))
+
+## Users with no commits yet
+
+- Dimitris Menemenlis ([@menemenlis](https://github.com/menemenlis)) - ✔️
