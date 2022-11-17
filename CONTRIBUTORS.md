@@ -31,6 +31,7 @@
   - Improve missing file error handling for untemplated filenames ([MAPL/#1377](https://github.com/GEOS-ESM/MAPL/pull/1377))
   - Expand allowed _FillValue type and error handling in FileMetadataUtilities.F90 ([MAPL/#1506](https://github.com/GEOS-ESM/MAPL/pull/1506))
   - Fix bug setting target stretched grid lat/lon from restart file ([MAPL/#1647](https://github.com/GEOS-ESM/MAPL/pull/1647))
+  - Add status check after retrieving variable data from NetCDF file ([MAPL/#1792](httaps://github.com/GEOS-ESM/MAPL/pull/1792))
 - Liam Bindle ([@LiamBindle](https://github.com/LiamBindle)) - ❓
   - Changed how ESMF return codes are included in MAPL_Exceptions.h ([MAPL/#26](https://github.com/GEOS-ESM/MAPL/pull/26))
   - Added missing stretched-grid support to MAPL_ExtDataGridChangeLev ([MAPL/#223](https://github.com/GEOS-ESM/MAPL/pull/223))
@@ -65,7 +66,11 @@
 - Sebastian David Eastham ([@sdeastham](https://github.com/sdeastham)) - ✔️
   - Squash unnecessary warning from FVdycore ([FVdycoreCubed_GridComp/#156](https://github.com/GEOS-ESM/FVdycoreCubed_GridComp/pull/156))
 
+## NCEP_Shared
+
+- Cheng Da ([@gmao-cda](https://github.com/gmao-cda)) - ✔️
+  - Fix CMakeLists.txt of NCEP_bufr for gnu compiler ([NCEP_Shared/#26](https://github.com/GEOS-ESM/NCEP_Shared/pull/26))
+
 ## Users with no commits yet
 
 - Dimitris Menemenlis ([@menemenlis](https://github.com/menemenlis)) - ✔️
-- Cheng Da ([@gmao-cda](https://github.com/gmao-cda)) - ✔️
