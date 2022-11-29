@@ -60,6 +60,8 @@
 
 - Raffaele Montuoro ([@rmontuoro](https://github.com/rmontuoro)) - ✔️
   - Enable independent use with external packages ([ESMA_cmake/#133](https://github.com/GEOS-ESM/ESMA_cmake/pull/133))
+- Natalie Perlin ([@natalie-perlin](https://github.com/natalie-perlin)) - ✔️
+  - Update GNU_Fortran.make ([ESMA_cmake/#292](https://github.com/GEOS-ESM/ESMA_cmake/pull/292))
 
 ## FVdycoreCubed_GridComp
 
